@@ -1,10 +1,29 @@
-# News Sentiment Analysis
+# News Sentiment Analysis Project
 
-This project analyzes financial news sentiment and its relationship with stock price movements.
+## Overview
+This project analyzes financial news data to understand patterns in publishing activity, headline characteristics, and time-based trends.
 
-## Structure
+## Dataset
+The dataset contains financial news articles with:
+- Headline
+- Publisher
+- Date
+- Stock symbol
+- URL
 
-- Task 1: EDA
-- Task 2: Technical Indicators
-- Task 3: Sentiment Correlation
+## Project Structure
 
+## Key Analysis Performed
+- News volume over time
+- Top publishers analysis
+- Headline length distribution
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies:
+3. Run the notebook in `notebooks/task1_eda.ipynb`
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
